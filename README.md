@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="(https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg)">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg">
+</picture>
+
 🎓 Mechatronics Background 
 
 📈 Trainig on Data Science 
