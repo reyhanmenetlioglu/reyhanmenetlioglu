@@ -11,7 +11,7 @@
    - [LinkedIn](https://www.linkedin.com/in/reyhanmenetlioglu/)
    - [Medium](https://medium.com/@reyhanmenetlioglu)
    
-<details open>                                                                                                                                                 <summary>My top languages</summary>
+<details open>                                                                                                                                                 <summary>Languages :</summary>
    
 | Rank | Languages |
 |-----:|-----------|
