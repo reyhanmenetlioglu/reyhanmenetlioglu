@@ -1,5 +1,7 @@
 🎓 Mechatronics Background \
+
 📈 Trainig on Data Science \
+
 📑 Professional Interests: 
    - Circular Economy 
    - Sustainability Strategies 
