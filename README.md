@@ -14,7 +14,7 @@
    - Sustainability Strategies 
    
 ###### 📧 **How to reach me:** 
-   - r.menetlioglu@gmail.com
+   - [Email](r.menetlioglu@gmail.com)
    - [LinkedIn](https://www.linkedin.com/in/reyhanmenetlioglu/)
    - [Medium](https://medium.com/@reyhanmenetlioglu)
    
