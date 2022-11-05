@@ -15,8 +15,8 @@
    
 ###### 📧 **How to reach me:** 
    - r.menetlioglu@gmail.com
-   - https://www.linkedin.com/in/reyhanmenetlioglu/
-   - https://medium.com/@reyhanmenetlioglu
+   - [LinkedIn](https://www.linkedin.com/in/reyhanmenetlioglu/)
+   - [Medium](https://medium.com/@reyhanmenetlioglu)
    
 <details open>                                                                                                                                                 <summary>My top languages</summary>
    
