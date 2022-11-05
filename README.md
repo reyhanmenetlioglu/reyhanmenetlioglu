@@ -11,6 +11,7 @@
    - r.menetlioglu@gmail.com
    - https://www.linkedin.com/in/reyhanmenetlioglu/
    - https://medium.com/@reyhanmenetlioglu
+   
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
