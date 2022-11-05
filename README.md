@@ -5,6 +5,11 @@
 📑 Professional Interests: 
    - Circular Economy 
    - Sustainability Strategies 
+   - 
+📧 How to reach me: 
+   - r.menetlioglu@gmail.com
+   - https://www.linkedin.com/in/reyhanmenetlioglu/
+   - https://medium.com/@reyhanmenetlioglu
    
 | Rank | Languages |
 |-----:|-----------|
@@ -12,8 +17,3 @@
 |     2| SQL       |
 |     3| C         |
    
-
-📧 How to reach me: 
-   - r.menetlioglu@gmail.com
-   - https://www.linkedin.com/in/reyhanmenetlioglu/
-   - https://medium.com/@reyhanmenetlioglu
