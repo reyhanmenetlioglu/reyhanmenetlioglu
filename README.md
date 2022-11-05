@@ -4,21 +4,22 @@
  <img alt="YOUR-ALT-TEXT" src="https://www.egroup.hu/wp-content/uploads/2021/04/header_vuosikertomus_2018_1600x625_data-analytiikan_kehittaminen.jpg">
 </picture>
 
-🎓 Mechatronics Background 
+                                                                                                                                                     
+## 🎓 Mechatronics Background 
 
-📈 Trainig on Data Science 
+## 📈 Trainig on Data Science 
 
-📑 Professional Interests: 
+## 📑 Professional Interests: 
    - Circular Economy 
    - Sustainability Strategies 
    
-📧 How to reach me: 
+## 📧 How to reach me: 
    - r.menetlioglu@gmail.com
    - https://www.linkedin.com/in/reyhanmenetlioglu/
    - https://medium.com/@reyhanmenetlioglu
    
 <details open>
-<summary>My top languages</summary>
+## <summary>My top languages</summary>
    
 | Rank | Languages |
 |-----:|-----------|
