@@ -3,7 +3,7 @@
 
 <h3 align="center">Hi, It's Reyhan.</h3>
 
-Data Analyst & Research Assistant with a focus on bringing a multidisciplinary perspective to the companies and organizations with the aim of driving positive impact on sustainable strategies and data-driven solutions.
+**Data Analyst & Research Assistant with a focus on bringing a multidisciplinary perspective to the companies and organizations with the aim of driving positive impact on sustainable strategies and data-driven solutions.
 
 Skills and achievements include:
 
