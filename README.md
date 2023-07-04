@@ -14,7 +14,7 @@ Reyhan.</a></h1>
 
 - 📫 How to reach me **r.menetlioglu@gmail.com**
 
-<h3 align="center" > <img src="<iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 																							 Connect with me 🤝 </h3>
 
 <p align="center">
