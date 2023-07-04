@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/reyhanmenetlioglu/" target="blank">
-Reyhan</a></h1>
+<h1 align="center">Hi, It's <a href="https://www.linkedin.com/in/reyhanmenetlioglu/" target="blank">
+Reyhan.</a></h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions. </h3>
 
 <a target="_blank" align="center">
