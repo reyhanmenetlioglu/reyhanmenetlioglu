@@ -3,7 +3,8 @@ Reyhan.</a></h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions. </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="<iframe src="<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gittiberlin-world-globe-change-the-Mdk5BrWcnla6AtW7vy">via GIPHY</a></p>">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="<iframe src="<div style="width:100%;height:0;padding-bottom:94%;position:relative;"><iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gittiberlin-world-globe-change-the-Mdk5BrWcnla6AtW7vy">via GIPHY</a></p>
+">
 </a>
 
 - 🔭 Data Analyst in <a href="https://digitopia.co/" target="blank">Digitopia</a>
