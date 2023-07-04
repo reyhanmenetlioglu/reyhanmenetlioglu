@@ -1,3 +1,6 @@
+
+![1686067766856](https://github.com/reyhanmenetlioglu/reyhanmenetlioglu/assets/117487344/5ded0a60-60e6-4f5f-a86d-81c1b0646d55)
+
 <h1 align="center">Hi, It's Reyhan.</h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions.</h3>
 
