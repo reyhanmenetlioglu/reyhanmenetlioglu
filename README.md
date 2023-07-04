@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Reyhan</h1>
+<h1 align="center">Hi, It's Reyhan.</h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions.</h3>
 
 - Data Analyst at [Digitopia](https://digitopia.co/)
@@ -20,17 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanmenetlioglu&show_icons=true&locale=en&layout=compact" alt="reyhanmenetlioglu" /></p>
 
-																							 Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/reyhanmenetlioglu/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/reyhanmenetlioglu">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-		<a style="margin-left: 5px;" target="_blank" 
-      </div>
-
-</p>
+																						
