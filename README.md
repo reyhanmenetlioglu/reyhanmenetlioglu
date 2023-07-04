@@ -3,7 +3,7 @@ Reyhan.</a></h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions. </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="<iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gittiberlin-world-globe-change-the-Mdk5BrWcnla6AtW7vy">via GIPHY</a></p>">
 </a>
 
 - 🔭 Data Analyst in <a href="https://digitopia.co/" target="blank">Digitopia</a>
@@ -14,7 +14,6 @@ Reyhan.</a></h1>
 
 - 📫 How to reach me **r.menetlioglu@gmail.com**
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 																							 Connect with me 🤝 </h3>
 
 <p align="center">
