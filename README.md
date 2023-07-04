@@ -21,7 +21,7 @@ Particularly interested in Climate Science and Earth Systems, Food Security and 
 - Research Assistant at [FABLE Consortium](https://fableconsortium.org/)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
