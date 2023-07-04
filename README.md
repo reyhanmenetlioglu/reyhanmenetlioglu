@@ -8,7 +8,7 @@ Reyhan</a></h1>
 
 - 🔭 Data Analyst in <a href="https://digitopia.co/" target="blank">Digitopia</a>
 
-- 🌱 Research Assistant in <a href="https://fableconsortium.org/" target="blank">Digitopia</a>
+- 🌱 Research Assistant in <a href="https://fableconsortium.org/" target="blank">FABLE Consortium</a>
 
 - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
