@@ -20,12 +20,12 @@ Particularly interested in Climate Science and Earth Systems, Food Security and 
 
 - Research Assistant at [FABLE Consortium](https://fableconsortium.org/)
 
-  ### 🤝 Connect with me:
+  ### Connect with me:
 
 <a href="https://www.linkedin.com/in/reyhanmenetlioglu/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://medium.com/@reyhanmenetlioglu"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, feel free to reach out to me!
+💬 If you have any question/feedback, feel free to reach out to me!
 
 
 
