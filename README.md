@@ -2,10 +2,6 @@
 Reyhan.</a></h1>
 <h3 align="center">Data Analyst & Research Assistant with a focus on sustainable strategies and data-driven solutions. </h3>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="<iframe src="https://giphy.com/embed/3oEhmG1JuBTlagssVy" width="480" height="365" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nasa-global-warming-greenpeace-3oEhmG1JuBTlagssVy">via GIPHY</a></p>">
-</a>
-
 - 🔭 Data Analyst in <a href="https://digitopia.co/" target="blank">Digitopia</a>
 
 - 🌱 Research Assistant in <a href="https://fableconsortium.org/" target="blank">FABLE Consortium</a>
