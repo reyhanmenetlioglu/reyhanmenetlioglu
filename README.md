@@ -14,7 +14,8 @@ Reyhan.</a></h1>
 
 - 📫 How to reach me **r.menetlioglu@gmail.com**
 
-<h3 align="center" > <img src="<iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gittiberlin-world-globe-change-the-Mdk5BrWcnla6AtW7vy">via GIPHY</a></p>" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="<iframe src="https://giphy.com/embed/Mdk5BrWcnla6AtW7vy" width="480" height="452" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a 
+																							 Connect with me 🤝 </h3>
 
 <p align="center">
 
