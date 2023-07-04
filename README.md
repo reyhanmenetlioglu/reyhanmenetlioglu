@@ -10,9 +10,7 @@ Reyhan</a></h1>
 
 - 🌱 Research Assistant in <a href="https://fableconsortium.org/" target="blank">FABLE Consortium</a>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://medium.com/@reyhanmenetlioglu](https://medium.com/@reyhanmenetlioglu)
+- 📝 I regularly write articles on  <a href="https://medium.com/@reyhanmenetlioglu" target="blank">Medium</a>
 
 - 📫 How to reach me **r.menetlioglu@gmail.com**
 
