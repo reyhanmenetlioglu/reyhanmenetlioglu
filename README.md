@@ -10,7 +10,7 @@ Reyhan.</a></h1>
 
 - 🌱 Research Assistant in <a href="https://fableconsortium.org/" target="blank">FABLE Consortium</a>
 
-- 📝 I regularly write articles on  <a href="https://medium.com/@reyhanmenetlioglu" target="blank">Medium</a>
+- 📝 Regularly writing articles on  <a href="https://medium.com/@reyhanmenetlioglu" target="blank">Medium</a>
 
 - 📫 How to reach me **r.menetlioglu@gmail.com**
 
