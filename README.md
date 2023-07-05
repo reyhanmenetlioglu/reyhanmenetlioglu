@@ -5,7 +5,7 @@
 
 **Data Analyst & Research Assistant with a focus on bringing a multidisciplinary perspective to the companies and organizations with the aim of driving positive impact on sustainable strategies and data-driven solutions.**
 
-Skills and achievements include:
+**Skills and achievements include:**
 
 - Research and analytical capabilities utilizing Python and Excel for data analysis and insights.
 - Skilled in data visualization using Tableau, creating visual representations that facilitate understanding and communication of data-driven findings.
